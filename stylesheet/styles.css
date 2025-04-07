@@ -1,0 +1,124 @@
+body {
+    background-color: lightgrey;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+}
+
+/* HOME IMAGE CAROUSEL */
+.carousel-item img {
+    width: 100%; 
+    height: 550px;
+}
+
+/* HEADER NAVBAR */
+.navbar {
+    background-color: #000;
+    /* height:10vh; */
+}
+.navbar .nav-link {
+    color: #fff !important;
+}
+.search-bar {
+    display: none;
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+.search-bar.active {
+    display: block;
+}
+
+/* HOME - MAIN CONTENT */
+.homePageMainContent {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    width: 80%;
+    max-width: 1200px;
+}
+
+.homePageImage, .homePageText {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+}
+
+.homePageImage {
+    background-color: #e3f2fd;
+}
+
+.homePageText {
+    background-color: #ede7f6;
+}
+
+.paragraphContainer {
+    display: flex;
+    gap: 20px;
+    padding: 5px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.dcBatman {
+    width: 300px; 
+    height: 450px;
+}
+
+.dcBatmanOrigins {
+    width: 300px; 
+    height: 450px;
+    text-align: right;
+    float: right;
+    margin: 0px 0px 15px 15px;
+}
+
+.dcBatmanPower {
+    width: 300px; 
+    height: 450px;
+}
+
+h1, h2, h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17.5px;
+}
+
+/* FOOTER */
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    padding: 20px;
+    /* left: 0;
+    right: 0;
+    position: relative;
+    bottom: 0; */
+    height:15vh;
+}
+.batmanLogo {
+    width: 150px;
+    height: auto;
+}
+.footer p {
+    margin: 10px 0 0 0;
+    font-size: 14px;
+    text-align: center;
+    color: white;
+}

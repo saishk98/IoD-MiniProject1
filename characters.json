@@ -1,0 +1,454 @@
+{
+    "characters": [
+      {
+        "name": "Alfred Pennyworth (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/AlfredPennyworth.jpg",
+        "classification": "Arkham",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Bane (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/Bane.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Batgirl (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/Batgirl.jpg",
+        "classification": "Arkham",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Batman (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/Batman.jpg",
+        "classification": "Arkham",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Black Mask (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/BlackMask.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Calendar Man (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/CalendarMan.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Catwoman (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/Catwoman.jpg",
+        "classification": "Arkham",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Clayface (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/Clayface.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Copperhead (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/Copperhead.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Deadshot (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/Deadshot.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "DeathStroke (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/DeathStroke.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Firefly (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/Firefly.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Harley Quinn (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/HarleyQuinn.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Hugo Strange (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/HugoStrange.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "James Gordon (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/JamesGordon.jpg",
+        "classification": "Arkham",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Killer Croc (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/KillerCroc.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Lucius Fox (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/LuciusFox.jpg",
+        "classification": "Arkham",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Mad Hatter (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/MadHatter.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Mr Freeze (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/MrFreeze.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Nightwing (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/Nightwing.jpg",
+        "classification": "Arkham",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Oracle (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/Oracle.jpg",
+        "classification": "Arkham",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Poison Ivy (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/PoisonIvy.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Ra's Al Ghul (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/Ra'salGhul.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Red Hood (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/RedHood.jpg",
+        "classification": "Arkham",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Robin (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/Robin.jpg",
+        "classification": "Arkham",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Shiva (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/Shiva.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Solomon Grundy (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/SolomonGrundy.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Talia Al Ghul (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/TaliaAlGhul.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "The Arkham Knight (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/TheArkhamKnight.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "The Electrocutioner (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/TheElectrocutioner.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "The Joker (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/TheJoker.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "The Militia (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/TheMilitia.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "The Penguin (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/ThePenguin.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "The Riddler (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/TheRiddler.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "The Scarecrow (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/TheScarecrow.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Two-Face (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/Two-Face.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "TYGER (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/TYGER.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Victor Zsasz (Arkham)",
+        "image": "assets/BatmanArkhamCharacters/VictorZsasz.jpg",
+        "classification": "Arkham",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Alfred Pennyworth (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/AlfredPennyworth.jpg",
+        "classification": "Animated Series",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Bane (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/Bane.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Barbara Gordon (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/BarbaraGordon.jpg",
+        "classification": "Animated Series",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Batgirl (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/Batgirl.jpg",
+        "classification": "Animated Series",
+        "archetype": "Heroes"
+      },      
+      {
+        "name": "Batman (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/Batman.jpg",
+        "classification": "Animated Series",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Bruce Wayne (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/BruceWayne.jpg",
+        "classification": "Animated Series",
+        "archetype": "Heroes"
+      },      
+      {
+        "name": "Catwoman (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/Catwoman.jpg",
+        "classification": "Animated Series",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Clayface (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/Clayface.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Dick Grayson (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/DickGrayson.jpg",
+        "classification": "Animated Series",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Dr.Leslie Thompkins (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/Dr.LeslieThompkins.jpg",
+        "classification": "Animated Series",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Edward Nygma (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/EdwardNygma.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Harleen Quinzel (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/HarleenQuinzel.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Harley Quinn (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/HarleyQuinn.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Harvey Dent (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/HarveyDent.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Harvey Bullock (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/HarveyBullock.jpg",
+        "classification": "Animated Series",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Hugo Strange (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/HugoStrange.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "James Gordon (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/JamesGordon.jpg",
+        "classification": "Animated Series",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Jervis Tetch (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/JervisTetch.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Jonathan Crane (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/JonathanCrane.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Killer Croc (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/KillerCroc.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Lucius Fox (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/LuciusFox.jpg",
+        "classification": "Animated Series",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "Mad Hatter (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/MadHatter.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Matt Hagen (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/MattHagen.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "Mr Freeze (Animated Series)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/MrFreeze.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "PAMELA LILLIAN ISLEY (ANIMATED SERIES)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/PamelaLillianIsley.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "POISON IVY (ANIMATED SERIES)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/PoisonIvy.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "RA'S AL GHUL (ANIMATED SERIES)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/Ra'sAlGhul.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "RENEE MONTOYA (ANIMATED SERIES)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/ReneeMontoya.jpg",
+        "classification": "Animated Series",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "ROBIN (ANIMATED SERIES)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/Robin.jpg",
+        "classification": "Animated Series",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "SELINA KYLE (ANIMATED SERIES)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/SelinaKyle.jpg",
+        "classification": "Animated Series",
+        "archetype": "Heroes"
+      },
+      {
+        "name": "TALIA AL GHUL (ANIMATED SERIES)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/TaliaAlGhul.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },      
+      {
+        "name": "THE JOKER (ANIMATED SERIES)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/TheJoker.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "THE PENGUIN (ANIMATED SERIES)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/ThePenguin.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "THE RIDDLER (ANIMATED SERIES)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/TheRiddler.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "THE SCARECROW (ANIMATED SERIES)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/TheScarecrow.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "TWO-FACE (ANIMATED SERIES)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/Two-Face.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      },
+      {
+        "name": "VICTOR FRIES (ANIMATED SERIES)",
+        "image": "assets/BatmanAnimatedSeriesCharacters/VictorFries.jpg",
+        "classification": "Animated Series",
+        "archetype": "Villains"
+      }
+    ]
+  }

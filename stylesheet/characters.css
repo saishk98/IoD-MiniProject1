@@ -1,0 +1,80 @@
+/* CHARACTERS MAIN CONTENT */
+.charactersContainer {
+    display: flex;
+    width: 100%;
+    min-height: 75vh;
+    overflow: auto;
+}
+
+.sidebar {
+    width: 20%;
+    padding: 20px;
+    margin-left: 75px;
+}
+
+#search {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.filter-section {
+    margin-bottom: 20px;
+}
+
+.filter-section h3 {
+    cursor: pointer;
+    color: #333;
+}
+
+.filter-options {
+    list-style: none;
+    padding-left: 0;
+    display: none; /* Hidden by default */
+}
+
+.filter-options li {
+    margin-bottom: 10px;
+}
+
+.content {
+    width: 80%;
+    padding: 20px;
+}
+
+.characterGrid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(1, auto);
+    gap: 20px;
+    padding: 20px;
+}
+
+.characterImageContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.characterImageContainer img {
+    width: 200px;
+    height: 300px;
+    margin-bottom: 10px;
+}
+
+.characterImageContainer p {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.characterImageContainer:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+

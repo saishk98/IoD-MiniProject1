@@ -1,0 +1,148 @@
+{
+  "games": [
+    {
+      "name": "DC: DARK LEGION (2025)",
+      "image":"assets/Games/DarkLegionDC(2025).jpg",
+      "classification": "Other",
+      "year": "2020+"
+    },
+    {
+      "name": "DC HEROES UNITED (2024)",
+      "image": "assets/Games/HeroesUnitedDC(2024).jpg",
+      "classification": "Other",
+      "year": "2020+"
+    },
+    {
+      "name": "BATMAN: ARKHAM SHADOW (2024)",
+      "image": "assets/Games/BatmanArkhamShadow(2024).jpg",
+      "classification": "Arkham",
+      "year": "2020+"
+    },
+    {
+      "name": "SUICIDE SQUAD: KILL THE JUSTICE LEAGUE (2024)",
+      "image": "assets/Games/SuicideSquadKillTheJusticeLeague(2024).jpg",
+      "classification": "Other",
+      "year": "2020+"
+    },
+    {
+      "name": "DC HEROES & VILLAINS (2022)",
+      "image": "assets/Games/HeroesVillainsDC(2022).jpg",
+      "classification": "Other",
+      "year": "2020+"
+    },
+    {
+      "name": "GOTHAM KNIGHTS (2022)",
+      "image":"assets/Games/GothamKnights(2022).jpg",
+      "classification": "Other",
+      "year": "2020+"
+    },
+    {
+      "name": "LEGO DC SUPER-VILLAINS (2018)",
+      "image":"assets/Games/LegoSuperVillainsDC(2018).jpg",
+      "classification": "Lego",
+      "year": "2010-2019"
+    },
+    {
+      "name": "INJUSTICE 2 (2017)",
+      "image": "assets/Games/Injustice2(2017).jpg",
+      "classification": "Other",
+      "year": "2010-2019"
+    },
+    {
+      "name": "DC LEGENDS (2016)",
+      "image": "assets/Games/LegendsDC(2016).jpg",
+      "classification": "Other",
+      "year": "2010-2019"
+    },
+    {
+      "name": "BATMAN - THE TELLTALE SERIES (2016)",
+      "image": "assets/Games/BatmanTheTelltaleSeries(2016).jpg",
+      "classification": "Other",
+      "year": "2010-2019"
+    },
+    {
+      "name": "BATMAN: ARKHAM UNDERWORLD (2016)",
+      "image": "assets/Games/BatmanArkhamUnderworld(2016).jpg",
+      "classification": "Arkham",
+      "year": "2010-2019"
+    },
+    {
+      "name": "LEGO DIMENSIONS (2015)",
+      "image":"assets/Games/LegoDimensions(2015).jpg",
+      "classification": "Lego",
+      "year": "2010-2019"
+    },
+    {
+      "name": "BATMAN: ARKHAM KNIGHT (2015)",
+      "image":"assets/Games/BatmanArkhamKnight(2015).jpg",
+      "classification": "Arkham",
+      "year": "2010-2019"
+    },
+    {
+      "name": "LEGO BATMAN 3: BEYOND GOTHAM (2014)",
+      "image": "assets/Games/LegoBatman3BeyondGotham(2014).jpg",
+      "classification": "Lego",
+      "year": "2010-2019"
+    },
+    {
+      "name": "BATMAN: ARKHAM ORIGINS (2013)",
+      "image": "assets/Games/BatmanArkhamOrigins(2013).jpg",
+      "classification": "Arkham",
+      "year": "2010-2019"
+    },
+    {
+      "name": "BATMAN: ARKHAM ORIGINS BLACKGATE (2013)",
+      "image": "assets/Games/BatmanArkhamOriginsBlackgate(2013).jpg",
+      "classification": "Arkham",
+      "year": "2010-2019"
+    },
+    {
+      "name": "INJUSTICE: GODS AMONG US (2013)",
+      "image": "assets/Games/InjusticeGodsAmongUs(2013).jpg",
+      "classification": "Other",
+      "year": "2010-2019"
+    },
+    {
+      "name": "LEGO BATMAN 2: DC SUPER HEROES (2012)",
+      "image":"assets/Games/LegoBatman2SuperHeroesDC(2012).jpg",
+      "classification": "Lego",
+      "year": "2010-2019"
+    },
+    {
+      "name": "GOTHAM CITY IMPOSTERS (2012)",
+      "image": "assets/Games/GothamCityImposters(2012).jpg",
+      "classification": "Other",
+      "year": "2010-2019"
+    },
+    {
+      "name": "BATMAN: ARKHAM CITY LOCKDOWN (2011)",
+      "image": "assets/Games/BatmanArkhamCityLockdown(2011).jpg",
+      "classification": "Arkham",
+      "year": "2010-2019"
+    },
+    {
+      "name": "BATMAN: ARKHAM CITY (2012)",
+      "image": "assets/Games/BatmanArkhamCity(2012).jpg",
+      "classification": "Arkham",
+      "year": "2010-2019"
+    },
+    {
+      "name": "DC UNIVERSE ONLINE (2011)",
+      "image": "assets/Games/UniverseOnlineDC(2011).jpg",
+      "classification": "Other",
+      "year": "2010-2019"
+    },
+    {
+      "name": "BATMAN: ARKHAM ASYLUM (2009)",
+      "image": "assets/Games/BatmanArkhamAsylum(2009).jpg",
+      "classification": "Arkham",
+      "year": "2000-2009"
+    },
+    {
+      "name": "LEGO BATMAN: THE VIDEOGAME (2008)",
+      "image":"assets/Games/LegoBatmanTheVideoGame(2008).jpg",
+      "classification": "Lego",
+      "year": "2000-2009"
+    }
+  ]
+}
