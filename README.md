@@ -1,4 +1,4 @@
 # IoD-MiniProject1 (Saish)
 
-- Main File
+- Main Folder
 - Mini Project 1 Document
